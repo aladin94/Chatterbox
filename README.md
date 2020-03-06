@@ -1,8 +1,14 @@
 # Chatterbox
-<h2>Full-stack chatroom app built using React (frontend) and Node / express (backend).</h2>
+<h3>Full-stack chatroom app built using React (frontend) and Node / express (backend).</h3>
 
-<h2>Key Features include: User Authentication, Identity Protection, Typing Indicator</h2>
+<h3>Key Features include: User Authentication, Identity Protection, Typing Indicator</h3>
 
-<h2>Environment: JavaScript, React, Chatkit, Express, RESTful API.</h2>
+<h3>Environment: JavaScript, React, Chatkit, Express, RESTful API.</h3>
+
+<img src="images/chatroom.png" alt="Chatroom" height="700" width="1000">
+
+
 
 <img src="images/Frontpage.png" alt="Frontpage" height="700" width="1000">
+
+
